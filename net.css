@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.container button{
+    background-color: rgb(206, 19, 19);
+    color: azure;
+    height: 30px;
+    width: 60px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.logo{
+    color: rgb(214, 26, 26);
+    font-size: 35px;
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+   
+}
+.bye{
+   text-align: center;
+   margin-top: 120px;
+   font-family: "Pacifico", cursive;
+   color: rgb(211, 239, 239);
+   line-height: 30px;
+}
+.gs{
+    background-color: rgb(206, 19, 19);
+    width: 90px;
+    height: 35px;
+    color: azure;
+
+}
+.bye input[type="email"]{
+    margin-top: 10PX;
+    width: 290px;
+    height: 30px;
+}
+body{
+background-image: url(./images.jfif);
+background-position: center;
+background-size: cover;
+
+}
